@@ -1,5 +1,13 @@
 # Loan Default Prediction
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SrinivasaChivukula/loan-default-prediction/blob/main/notebooks/loan_default_prediction.ipynb)
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Scikit-Learn](https://img.shields.io/badge/Model-Histogram%20Gradient%20Boosting-orange?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![ROC-AUC](https://img.shields.io/badge/ROC--AUC-0.865-brightgreen?style=for-the-badge)](https://github.com/SrinivasaChivukula/loan-default-prediction)
+
+🚀 **Live Interactive Google Colab Notebook:** [Open in Google Colab](https://colab.research.google.com/github/SrinivasaChivukula/loan-default-prediction/blob/main/notebooks/loan_default_prediction.ipynb)
+
+
 **Group:** MachineStillLearning  
 **Course Project** | December 2025
 
